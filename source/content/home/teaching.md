@@ -12,7 +12,7 @@ I was a teaching assistant for the following courses at EPFL:
 - MGT-483: Optimal Decision Making (Spring 2016)
 - MGT-483: Optimal Decision Analysis (Spring 2015)
 
-I was a teaching assistant for the following courses at University of Tehran:
+I was a teaching assistant for the following courses at the University of Tehran:
 
 - Pattern Recognition (Fall 2013)
 - Estimation and System Identification (Spring 2013)

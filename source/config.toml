@@ -43,12 +43,12 @@ googleAnalytics = ""
 
     [[params.about.education]]
       course = "MSc in Electrical Engineering"
-      institution = "University of Tehran"
+      institution = "the University of Tehran"
       year = 2014
 
     [[params.about.education]]
       course = "BSc in Electrical Engineering"
-      institution = "University of Tehran"
+      institution = "the University of Tehran"
       year = 2011
 
   # Selected Publications section.
