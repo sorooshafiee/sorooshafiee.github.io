@@ -8,6 +8,5 @@ weight = 0
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+My name is Soroosh Shafieezadeh-Abadeh (in Persian: سروش شفیعی زاده آباده). Since October 2014, I joined [Risk Analytics and Optimization (RAO)](http://rao.epfl.ch/) Chair at [EPFL](http://epfl.ch/) as PhD student. I am advised by Prof. [Daniel Kuhn](https://people.epfl.ch/daniel.kuhn). My research revolves around optimization, machine learning and high-dimensional data analysis.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. Etiam iaculis libero hendrerit ipsum tempus accumsan. Praesent ex justo, aliquam bibendum nulla in, vehicula rhoncus massa. Fusce gravida mattis tellus vel commodo. Etiam molestie non ligula ac venenatis. Integer semper diam at fringilla dapibus. Nunc tincidunt lacinia nisi, sed blandit purus fermentum vel. Morbi tempus dolor dolor. Phasellus scelerisque est elit, et porttitor mauris faucibus sit amet. Phasellus sollicitudin bibendum sem eu blandit. Curabitur congue felis eu velit faucibus porta. Curabitur a pharetra diam.

@@ -7,12 +7,17 @@ section_id = 10
 weight = 10
 +++
 
-I am a teaching instructor for the following courses at University X:
+I was a teaching assistant for the following courses at EPFL:
 
-- CS101: An intro to computer science
-- CS102: An intro to computer science
-- CS103: An intro to computer science
-- CS104: An intro to computer science
-- CS105: An intro to computer science
-- CS106: An intro to computer science
-- CS107: An intro to computer science
+- MGT-483: Optimal Decision Making (Spring 2016)
+- MGT-483: Optimal Decision Analysis (Spring 2015)
+
+I was a teaching assistant for the following courses at University of Tehran:
+
+- Pattern Recognition (Fall 2013)
+- Estimation and System Identification (Spring 2013)
+- Digital Control Systems (Spring 2013)
+- Operations Research (Fall 2012)
+- Linear Control Systems (Fall 2012-Spring 2011)
+- Electrical Circuit II (Spring 2010- Spring 2009)
+
