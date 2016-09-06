@@ -20,7 +20,7 @@
 
 &lt;p&gt;I use the &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; static site generator with the &lt;a href=&#34;https://github.com/gcushen/hugo-academic&#34;&gt;Academic theme&lt;/a&gt; to create my personal website. Hugo is a static site generator, which means unlike dynamic site generators which build a page every time a visitor requests one, it builds all pages when you create your website. The academic theme is generally designed for academic staff and students. You can write in &lt;a href=&#34;https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet&#34;&gt;Markdown&lt;/a&gt; for easy formatting and code highlighting, with &lt;a href=&#34;https://en.wikibooks.org/wiki/LaTeX/Mathematics&#34;&gt;LaTeX&lt;/a&gt; for mathematical expressions.&lt;/p&gt;
 
-&lt;h2 id=&#34;license:b6885e1f85551f51a4707c402f8200a3&#34;&gt;License&lt;/h2&gt;
+&lt;h2 id=&#34;license&#34;&gt;License&lt;/h2&gt;
 
 &lt;p&gt;Copyright 2016 &lt;a href=&#34;https://georgecushen.com&#34;&gt;George Cushen&lt;/a&gt;.&lt;/p&gt;
 
