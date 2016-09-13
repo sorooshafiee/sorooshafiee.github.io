@@ -1,0 +1,17 @@
+{{ partial "header.html" . }}
+{{ partial "navbar.html" . }}
+<div class="container">
+    <div class="row">
+        <div class="col-md-12">
+            <h1>Teaching</h1>
+			
+			{{ range $index, $page := where .Data.Pages "Type" "teaching" }}
+			{{ $page.Content }}
+			{{ end }}
+
+        </div>
+    </div>
+
+</div>
+{{ partial "footer_container.html" . }}
+{{ partial "footer.html" . }}

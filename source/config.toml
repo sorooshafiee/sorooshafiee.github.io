@@ -113,7 +113,7 @@ googleAnalytics = ""
   [[params.social]]
     icon = "linkedin"
     icon_pack = "fa"
-    link = "//ch.linkedin.com/in/sorooshafiee"
+    link = "//linkedin.com/in/sorooshafiee"
 
   [[params.social]]
     icon = "google-scholar"
@@ -150,8 +150,8 @@ googleAnalytics = ""
   weight = 4
 
 [[menu.main]]
-  name = "Teaching"
-  url = "#teaching"
+  name = "Awards"
+  url = "#awards"
   weight = 5
 
 [[menu.main]]

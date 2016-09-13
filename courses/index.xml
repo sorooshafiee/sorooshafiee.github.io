@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Courses on Soroosh Shafiee&#39;s Personal Website</title>
+    <link>https://sorooshafiee.github.io/courses/</link>
+    <description>Recent content in Courses on Soroosh Shafiee&#39;s Personal Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2016 Soroosh Shafieezadeh-Abadeh</copyright>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://sorooshafiee.github.io/courses/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>courses</title>
+      <link>https://sorooshafiee.github.io/courses/courses/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://sorooshafiee.github.io/courses/courses/</guid>
+      <description>&lt;p&gt;I took the following courses at EPFL:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Optimization Methods and Models&lt;/li&gt;
+&lt;li&gt;Quantitative Risk Management Using Robust Optimization&lt;/li&gt;
+&lt;li&gt;Computational Methods and Data Science for Management Research&lt;/li&gt;
+&lt;li&gt;Advanced Topics in Data Sciences&lt;/li&gt;
+&lt;li&gt;Mathematics of Data: from Theory to Computation&lt;/li&gt;
+&lt;li&gt;Optimization and Simulation&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I took the following courses at the University of Tehran:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Pattern Recognition&lt;/li&gt;
+&lt;li&gt;Machine Learning&lt;/li&gt;
+&lt;li&gt;Estimation and System Identication&lt;/li&gt;
+&lt;li&gt;Social Networks&lt;/li&gt;
+&lt;li&gt;Stochastic Processes&lt;/li&gt;
+&lt;li&gt;Game Theory&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -10,12 +10,23 @@ publication = "Advances in Neural Information Processing Systems"
 publication_short = "NIPS"
 selected = true
 title = "Distributionally Robust Logistic Regression"
+journal = false
+conference = true
+preprint = false
+patent = false
+book = false
+working_paper = false
+thesis = false
+seminar = false
 url_code = ""
 url_dataset = ""
 url_pdf = "http://papers.nips.cc/paper/5745-distributionally-robust-logistic-regression.pdf"
 url_project = ""
-url_slides = ""
-url_video = ""
+url_slides = "/pdf/DRLR_Presentation.pdf"
+url_video = "http://research.microsoft.com/apps/video/?id=259590"
+[[url_custom]]
+name = "Poster"
+url = "/pdf/DRLR_Poster.pdf"
 
 +++
 
