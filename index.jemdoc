@@ -1,0 +1,67 @@
+= Soroosh Shafieezadeh Abadeh
+
+~~~
+{}{img_left}{sorooshafiee.jpg}{alt text}{250px}{250px}{}
+
+Ph.D student, \n
+[https://rao.epfl.ch Risk Analytics and Optimization Chair (RAO),] \n
+[https://epfl.ch EPFL]
+
+Contact Address:\n
+EPFL-CDM-MTEI-RAO, \n
+Station 5, \n
+CH-1015, Lausanne
+
+E-mail: [soroosh.shafiee@epfl.ch soroosh.shafiee@epfl.ch]
+
+~~~
+
+\n\n
+I am broadly interested in convex optimization and machine learning algorithms.
+My research is focused on decision making under uncertainty using Distributionally Robust Optimization paradigm.
+
+Since 2014, I am a doctoral student at EPFL, supervised by Prof. [https://people.epfl.ch/daniel.kuhn Daniel Kuhn] and
+co-supervised by Prof. [http://www.dcsc.tudelft.nl/~mohajerin/ Peyman Mohajerin Esfahani].
+Before coming to EPFL, I received my B.S. and M.S. degrees in Electrical Engineering from the University of Tehran.
+
+== Research topics
+- Distributionally Robust Optimization
+- Convex Optimization Algorithms
+- Machine Learning
+
+== Publications
+- [http://www.dcsc.tudelft.nl/~mohajerin/Publications/conference/2018/NIPS.pdf Wasserstein Distributionally Robust Kalman Filtering]\n
+S. Shafieezadeh-Abadeh, V. A. Nguyen, D. Kuhn, P. Mohajerin Esfahani \n
+(*spotlight*) To appear at Conference on Neural Information Processing Systems (NIPS), Montreal, 2018
+
+- [https://link.springer.com/article/10.1007/s10107-017-1216-6 Data-driven Inverse Optimization with Imperfect Information]\n
+P. Mohajerin Esfahani, S. Shafieezadeh-Abadeh, G. A. Hanasusanto, D. Kuhn \n
+Mathematical Programming, 2018
+
+- [https://arxiv.org/pdf/1710.10016.pdf Regularization via Mass Transportation] \n
+S. Shafieezadeh-Abadeh, D. Kuhn, P. Mohajerin Esfahani \n
+/Under Review, 2017/
+
+- [https://link.springer.com/article/10.1007/s12530-015-9129-1 Evolving Takagi-Sugeno model based on online Gustafson-Kessel algorithm and kernel recursive least square method] \n
+S. Shafieezadeh-Abadeh, A. Kalhor \n
+Evolving Systems, 2016
+
+- [http://papers.nips.cc/paper/5745-distributionally-robust-logistic-regression.pdf Distributionally Robust Logistic Regression]\n
+S. Shafieezadeh-Abadeh, P. Mohajerin Esfahani, D. Kuhn \n
+(*spotlight*) at Conference on Neural Information Processing Systems (NIPS), Montreal, 2015
+
+- [https://www.sciencedirect.com/science/article/pii/S0921889013001425 Piecewise linear spine for speed-energy efficiency trade-off in quadruped robots] \n
+M. Khoramshahi, H. Jalaly Bidgoly, S. Shafieezadeh-Abadeh, A. Asaei, A. J. Ijspeert, M. Nili Ahmadabad \n
+Robotics and Autonomous Systems, 2013
+
+== Professional Services
+*Reviewer for journals:* Management Science, Operations Research, Mathematical Programming,
+European Journal of Operational Research, Operations Research Letters, Energy Systems, SIAM Journal on Optimization, INFORMS Journal on Optimization.
+
+== Social Contacts
+{{<a href="soroosh.shafiee@gmail.com"><i class="fa fa-envelope" style="font-size:72px"></i></a>
+<a href="https://scholar.google.ch/citations?user=NEfjljMAAAAJ&hl=en"><i class="ai ai-google-scholar" style="font-size:72px"></i></a>
+<a href="https://arxiv.org/search/math?searchtype=author&query=Shafieezadeh-Abadeh%2C+S"><i class="ai ai-arxiv" style="font-size:72px"></i></a>
+<a href="https://github.com/sorooshafiee"><i class="fa fa-github" style="font-size:72px"></i></a>
+<a href="https://twitter.com/sorooshafiee"><i class="fa fa-twitter" style="font-size:72px"></i></a>
+<a href="https://www.linkedin.com/in/sorooshafiee"><i class="fa fa-linkedin" style="font-size:72px"></i></a>}}
