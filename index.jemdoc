@@ -30,17 +30,21 @@ Before coming to EPFL, I received my B.S. and M.S. degrees in Electrical Enginee
 - Machine Learning
 
 == Publications
-- [http://www.dcsc.tudelft.nl/~mohajerin/Publications/conference/2018/NIPS.pdf Wasserstein Distributionally Robust Kalman Filtering]\n
+- [https://infoscience.epfl.ch/record/265797?ln=en Wasserstein Distributionally Robust Optimization: Theory and Applications in Machine Learning] \n
+D. Kuhn, P. Mohajerin Esfahani, V. A. Nguyen, S. Shafieezadeh-Abadeh \n
+INFORMS TutORials in Operations Research
+
+- [http://jmlr.org/papers/volume20/17-633/17-633.pdf Regularization via Mass Transportation] \n
+S. Shafieezadeh-Abadeh, D. Kuhn, P. Mohajerin Esfahani \n
+/Journal of Machine Learning Research, 2019/
+
+- [https://papers.nips.cc/paper/8067-wasserstein-distributionally-robust-kalman-filtering.pdf Wasserstein Distributionally Robust Kalman Filtering]\n
 S. Shafieezadeh-Abadeh, V. A. Nguyen, D. Kuhn, P. Mohajerin Esfahani \n
-(*spotlight*) To appear at Conference on Neural Information Processing Systems (NIPS), Montreal, 2018
+(*spotlight*) at Conference on Neural Information Processing Systems (NeurIPS), Montreal, 2018
 
 - [https://link.springer.com/article/10.1007/s10107-017-1216-6 Data-driven Inverse Optimization with Imperfect Information]\n
 P. Mohajerin Esfahani, S. Shafieezadeh-Abadeh, G. A. Hanasusanto, D. Kuhn \n
 Mathematical Programming, 2018
-
-- [https://arxiv.org/pdf/1710.10016.pdf Regularization via Mass Transportation] \n
-S. Shafieezadeh-Abadeh, D. Kuhn, P. Mohajerin Esfahani \n
-/Under Review, 2017/
 
 - [https://link.springer.com/article/10.1007/s12530-015-9129-1 Evolving Takagi-Sugeno model based on online Gustafson-Kessel algorithm and kernel recursive least square method] \n
 S. Shafieezadeh-Abadeh, A. Kalhor \n
