@@ -12,12 +12,13 @@ Physikstrasse 3 \n
 8092 Zürich \n
 Switzerland
 
-
 E-mail: [soroosh.shafiee@gmail.com soroosh.shafiee@gmail.com]
 
 ~~~
 
 == News
+
+- August 2021: I join CMU as a postdoctoral scholar working with Professor [https://www.andrew.cmu.edu/user/fkilinc Fatma Kılınç-Karzan].
 
 - October 2020: I join ETH Zurich as a postdoctoral scholar working with Professor [https://control.ee.ethz.ch/people/profile.john-lygeros.html John Lygeros] and Professor [http://people.ee.ethz.ch/~floriand/ Florian Dörfler].
 
@@ -27,9 +28,14 @@ E-mail: [soroosh.shafiee@gmail.com soroosh.shafiee@gmail.com]
 
 == Biography
 
-Soroosh Shafieezadeh Abadeh is currently a postdoctoral researcher at the Automatic Control Laboratory at ETH Zurich, working with Professor [https://control.ee.ethz.ch/people/profile.john-lygeros.html John Lygeros] and Professor [http://people.ee.ethz.ch/~floriand/ Florian Dörfler]. He received his doctoral degree in Management of Technology from Ecole Polytechnique Federale de Lausanne in 2020, where he worked with Professor [https://people.epfl.ch/daniel.kuhn Daniel Kuhn] and Professor [http://www.dcsc.tudelft.nl/~mohajerin/ Peyman Mohajerin Esfahani]. His doctoral dissertation entitled [https://infoscience.epfl.ch/record/277923 Wasserstein Distributionally Robust Learning] was awarded an [https://actu.epfl.ch/news/soroosh-shafieezadeh-abadeh-winner-of-the-thesis-4/ EPFL Thesis Distinction] in 2020. He received a Bachelor and a Master degree in Electrical Engineering (major in Automatic Control) from the University of Tehran in 2011 and 2014, respectively.
+Soroosh Shafieezadeh Abadeh is currently a postdoctoral researcher at Tepper School of Business at Carnegie Mellon University, working with Professor [https://www.andrew.cmu.edu/user/fkilinc Fatma Kılınç-Karzan]. 
+Before joining CMU, he held a postdoctoral position at the Automatic Control Laboratory at ETH Zurich, working with [https://control.ee.ethz.ch/people/profile.john-lygeros.html John Lygeros] and [http://people.ee.ethz.ch/~floriand/ Florian Dörfler]. 
+He received his doctoral degree in Management of Technology from École Polytechnique Fédérale de Lausanne in 2020, where he worked with Professor [https://people.epfl.ch/daniel.kuhn Daniel Kuhn] and Professor [http://www.dcsc.tudelft.nl/~mohajerin/ Peyman Mohajerin Esfahani]. 
+His doctoral dissertation entitled [https://infoscience.epfl.ch/record/277923 Wasserstein Distributionally Robust Learning] was awarded an [https://actu.epfl.ch/news/soroosh-shafieezadeh-abadeh-winner-of-the-thesis-4/ EPFL Thesis Distinction] in 2020. 
+He received a Bachelor and a Master degree in Electrical Engineering (major in Automatic Control) from the University of Tehran in 2011 and 2014, respectively.
 
-His current research interests are focused on optimization under uncertainty, the design of large-scale algorithms for solving stochastic and distributionally robust optimization problems, and the development of statistical tools for data-driven decision-making problems. His research is inspired by applications in machine learning, control, economics and finance.
+His current research interests are focused on optimization under uncertainty, the design of large-scale algorithms for solving stochastic and distributionally robust optimization problems, and the development of statistical tools for data-driven decision-making problems. 
+His research is inspired by applications in machine learning, control, economics and finance.
 
 == Awards and Scholarships
 - [https://actu.epfl.ch/news/soroosh-shafieezadeh-abadeh-winner-of-the-thesis-4/ EPFL Thesis Distinction Award], 2020
@@ -48,8 +54,6 @@ INFORMS TutORials in Operations Research
 - [http://jmlr.org/papers/volume20/17-633/17-633.pdf Regularization via Mass Transportation] \n
 with D. Kuhn, and P. Mohajerin Esfahani \n
 Journal of Machine Learning Research, 2019
-
-
 
 - [https://link.springer.com/article/10.1007/s10107-017-1216-6 Data-driven Inverse Optimization with Imperfect Information]\n
 with P. Mohajerin Esfahani, G. A. Hanasusanto, D. Kuhn \n
@@ -82,27 +86,42 @@ with P. Mohajerin Esfahani, D. Kuhn \n
 (*spotlight*) Advances in Neural Information Processing Systems (NeurIPS), Montreal, 2015
 
 === Ongoing Projects
-- Semi-Discrete Optimal Transport: Hardness, Regularization and Numerical Solution \n 
-with B. Taşkesen and D. Kuhn
-- From Moderate Deviations
-Theory to Distributionally Robust Optimization: Learning from Correlated Data \n 
-with T. Sutter, W. Jongeneel, D. Kuhn
-- Statistics of the Extremes of Random Walks: A Copula-Free Approach \n
-with C. Koçyiğit and N. Rujeerapaiboon
+- A Robust Optimization Approach to Network Control Using Local Information Exchange \n 
+with G. Darivianakis, A. Georghiou, J. Lygeros \n   
+Under Revision
 
+- [https://arxiv.org/pdf/2103.06263.pdf Semi-Discrete Optimal Transport: Hardness, Regularization and Numerical Solution] \n 
+with B. Taşkesen and D. Kuhn \n 
+Under Review
+
+- Hardness of Discrete Optimal Transport \n 
+with B. Taşkesen and D. Kuhn and K. Natarajan \n 
+Under Review
+
+- Optimal Transport Based Distributionally Robust Optimization: Nash Equilibrium, Regularization, and Computation \n 
+L. Aolaritei, D. Kuhn, J. Lygeros, F. Dörfler \n 
+Working Paper
+
+- High Dimensional Analysis of Wasserstein Distributionally Learning \n 
+with L. Aolaritei and F. Dörfler \n 
+Working Paper.
+
+- Statistics of the Extremes of Random Walks: A Copula-Free Approach \n
+with C. Koçyiğit and N. Rujeerapaiboon \n
+Working Paper
 
 == Professional Services
 *Reviewer for Journals:* Mathematical Programming, Operations Research, Management Science, Mathematics of Operations Research, SIAM Journal on Optimization, Journal of Machine Learning Research, SIAM Journal on Mathematics of Data Science, Machine Learning, IEEE Transactions on Pattern Analysis and Machine Intelligence, IEEE Transactions on Automatic Control, Operations Research Letters, INFORMS Journal on Optimization, European Journal of Operational Research.
 
-*Reviewer for Conferences:* ICML (2019, 2020, 2021), NeurIPS (2018, 2019, 2020), AAAI (2020), CDC (2018).
+*Reviewer for Conferences:* ICML (2019, 2021), NeurIPS (2019, 2020, 2021), AAAI (2020).
 
 == Collaborators
 - [http://grani.hanasusanto.com/ Grani Adiwena Hanasusanto]
-- [http://wjongeneel.nl/ Wouter Jongeneel]
+- [https://control.ee.ethz.ch/people/profile.liviu-aolaritei.html Liviu Aolaritei]
+- [https://ucyweb.ucy.ac.cy/dir/el/cb-profile/ageorg07 Angelos Georghiou]
 - [https://cagilkocyigit.github.io/ Çağıl Koçyiğit]
 - [https://vietanhnguyen.net/ Viet Anh Nguyen]
 - [https://www.eng.nus.edu.sg/isem/staff/napat-rujeerapaiboon/ Napat Rujeerapaiboon]
-- [https://sites.google.com/view/suttert/ Tobias Sutter]
 - [https://people.epfl.ch/bahar.taskesen Bahar Taşkesen]
 - [http://wp.doc.ic.ac.uk/wwiesema/ Wolfram Wiesemann]
 - [https://manchungyue.com/ Man-Chung Yue]
