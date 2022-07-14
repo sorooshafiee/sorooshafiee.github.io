@@ -29,7 +29,7 @@ E-mail: [soroosh.shafiee@gmail.com soroosh.shafiee@gmail.com]
 == Biography
 
 Soroosh Shafieezadeh Abadeh is currently a postdoctoral researcher at Tepper School of Business at Carnegie Mellon University, working with Professor [https://www.andrew.cmu.edu/user/fkilinc Fatma Kılınç-Karzan]. 
-Before joining CMU, he held a postdoctoral position at the Automatic Control Laboratory at ETH Zurich, working with [https://control.ee.ethz.ch/people/profile.john-lygeros.html John Lygeros] and [http://people.ee.ethz.ch/~floriand/ Florian Dörfler]. 
+Before joining CMU, he held a postdoctoral position at the Automatic Control Laboratory at ETH Zurich, working with Professor [https://control.ee.ethz.ch/people/profile.john-lygeros.html John Lygeros] and Professor [http://people.ee.ethz.ch/~floriand/ Florian Dörfler]. 
 He received his doctoral degree in Management of Technology from École Polytechnique Fédérale de Lausanne in 2020, where he worked with Professor [https://people.epfl.ch/daniel.kuhn Daniel Kuhn] and Professor [http://www.dcsc.tudelft.nl/~mohajerin/ Peyman Mohajerin Esfahani]. 
 His doctoral dissertation entitled [https://infoscience.epfl.ch/record/277923 Wasserstein Distributionally Robust Learning] was awarded an [https://actu.epfl.ch/news/soroosh-shafieezadeh-abadeh-winner-of-the-thesis-4/ EPFL Thesis Distinction] in 2020. 
 He received a Bachelor and a Master degree in Electrical Engineering (major in Automatic Control) from the University of Tehran in 2011 and 2014, respectively.
@@ -43,6 +43,10 @@ His research is inspired by applications in machine learning, control, economics
 
 == Publications and Projects
 === Journal Publications
+- [https://arxiv.org/pdf/2103.06263.pdf Semi-Discrete Optimal Transport: Hardness, Regularization and Numerical Solution] \n 
+with B. Taşkesen and D. Kuhn \n 
+Mathematical Programming (in press)
+
 - [https://arxiv.org/pdf/1911.03539.pdf Bridging Bayesian and Minimax Mean Square Error Estimation via Wasserstein Distributionally Robust Optimization] \n
 with V. A. Nguyen, D. Kuhn, P. Mohajerin Esfahani \n
 Mathematics of Operations Research, 2021
@@ -86,25 +90,26 @@ with P. Mohajerin Esfahani, D. Kuhn \n
 (*spotlight*) Advances in Neural Information Processing Systems (NeurIPS), Montreal, 2015
 
 === Ongoing Projects
-- A Robust Optimization Approach to Network Control Using Local Information Exchange \n 
+- [http://www.optimization-online.org/DB_FILE/2020/04/7738.pdf A Robust Optimization Approach to Network Control Using Local Information Exchange] \n 
 with G. Darivianakis, A. Georghiou, J. Lygeros \n   
 Under Revision
 
-- [https://arxiv.org/pdf/2103.06263.pdf Semi-Discrete Optimal Transport: Hardness, Regularization and Numerical Solution] \n 
-with B. Taşkesen and D. Kuhn \n 
+- [https://arxiv.org/pdf/2112.09959.pdf Mean-covariance robust risk measurement] \n  
+with V. A. Nguyen, D. Kuhn, D. Filipović \n
 Under Review
 
-- Hardness of Discrete Optimal Transport \n 
+- [https://arxiv.org/pdf/2203.01161.pdf Discrete Optimal Transport with Independent Marginals is P-Hard] \n 
 with B. Taşkesen and D. Kuhn and K. Natarajan \n 
+Under Review
+
+- [https://arxiv.org/pdf/2206.13269.pdf The Performance of Wasserstein Distributionally Robust M-Estimators in High Dimensions] \n 
+with L. Aolaritei and F. Dörfler \n 
 Under Review
 
 - Optimal Transport Based Distributionally Robust Optimization: Nash Equilibrium, Regularization, and Computation \n 
 L. Aolaritei, D. Kuhn, J. Lygeros, F. Dörfler \n 
 Working Paper
 
-- High Dimensional Analysis of Wasserstein Distributionally Learning \n 
-with L. Aolaritei and F. Dörfler \n 
-Working Paper.
 
 - Statistics of the Extremes of Random Walks: A Copula-Free Approach \n
 with C. Koçyiğit and N. Rujeerapaiboon \n
@@ -114,6 +119,8 @@ Working Paper
 *Reviewer for Journals:* Mathematical Programming, Operations Research, Management Science, Mathematics of Operations Research, SIAM Journal on Optimization, Journal of Machine Learning Research, SIAM Journal on Mathematics of Data Science, Machine Learning, IEEE Transactions on Pattern Analysis and Machine Intelligence, IEEE Transactions on Automatic Control, Operations Research Letters, INFORMS Journal on Optimization, European Journal of Operational Research.
 
 *Reviewer for Conferences:* ICML (2019, 2021), NeurIPS (2019, 2020, 2021), AAAI (2020).
+
+*ICCOPT 2020 Summer School on Distributionally Robust Optimization:* Slides are available here.
 
 == Collaborators
 - [http://grani.hanasusanto.com/ Grani Adiwena Hanasusanto]
