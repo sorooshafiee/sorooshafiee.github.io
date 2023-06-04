@@ -18,7 +18,8 @@ E-mail: [soroosh.shafiee@gmail.com soroosh.shafiee@gmail.com]
 
 == Biography
 
-Soroosh Shafieezadeh Abadeh is currently a postdoctoral researcher at Tepper School of Business at Carnegie Mellon University, working with Professor [https://www.andrew.cmu.edu/user/fkilinc Fatma Kılınç-Karzan]. 
+I am currently a postdoctoral researcher at Tepper School of Business at Carnegie Mellon University, working with Professor [https://www.andrew.cmu.edu/user/fkilinc Fatma Kılınç-Karzan].
+Starting from July 2023, I will be joining the Operations Research and Information Engineering (ORIE) department at Cornell University as an assistant professor. 
 Before joining CMU, he held a postdoctoral position at the Automatic Control Laboratory at ETH Zurich, working with Professor [https://control.ee.ethz.ch/people/profile.john-lygeros.html John Lygeros] and Professor [http://people.ee.ethz.ch/~floriand/ Florian Dörfler]. 
 He received his doctoral degree in Management of Technology from École Polytechnique Fédérale de Lausanne in 2020, where he worked with Professor [https://people.epfl.ch/daniel.kuhn Daniel Kuhn] and Professor [http://www.dcsc.tudelft.nl/~mohajerin/ Peyman Mohajerin Esfahani]. 
 His doctoral dissertation entitled [https://infoscience.epfl.ch/record/277923 Wasserstein Distributionally Robust Learning] was awarded an [https://actu.epfl.ch/news/soroosh-shafieezadeh-abadeh-winner-of-the-thesis-4/ EPFL Thesis Distinction] in 2020. 
@@ -33,6 +34,10 @@ His research is inspired by applications in machine learning, control, economics
 
 == Publications and Projects
 === Journal Publications
+- [https://arxiv.org/pdf/2012.14698.pdf Conic Mixed-Binary Sets: Convex Hull Characterizations and Applications] \n 
+with F. Kılınç-Karzan, S. Küçükyavuz, D. Lee \n   
+Operations Research (in press)
+
 - [https://arxiv.org/pdf/2103.06263.pdf Semi-Discrete Optimal Transport: Hardness, Regularization and Numerical Solution] \n 
 with B. Taşkesen and D. Kuhn \n 
 Mathematical Programming (in press) \n
@@ -90,10 +95,6 @@ with P. Mohajerin Esfahani, D. Kuhn \n
 with G. Darivianakis, A. Georghiou, J. Lygeros \n   
 Major Revision in Operations Research
 
-- [https://arxiv.org/pdf/2012.14698.pdf Conic Mixed-Binary Sets: Convex Hull Characterizations and Applications] \n 
-with F. Kılınç-Karzan, S. Küçükyavuz, D. Lee \n   
-Major Revision in Operations Research
-
 - [https://arxiv.org/pdf/2112.09959.pdf Mean-Covariance Robust Risk Measurement] \n  
 with V. A. Nguyen, D. Kuhn, D. Filipović \n
 Major Revision in Management Science
@@ -102,10 +103,13 @@ Major Revision in Management Science
 with L. Aolaritei and F. Dörfler \n 
 Under Review
 
-- Optimal Transport Based Distributionally Robust Optimization: Nash Equilibrium, Regularization, and Computation \n 
-L. Aolaritei, F. Dörfler, D. Kuhn \n 
-Working Paper
+- [https://arxiv.org/pdf/2303.03900.pdf New Perspectives on Regularization and Computation in Optimal Transport-Based Distributionally Robust Optimization] \n 
+with L. Aolaritei, F. Dörfler, D. Kuhn \n 
+Under Review
 
+- [https://arxiv.org/pdf/2303.03900.pdf Constrained Optimization of Rank-One Functions with Indicator Variables] \n 
+with F. Kılınç-Karzan \n 
+Under Review
 
 - Statistics of the Extremes of Random Walks: A Copula-Free Approach \n
 with C. Koçyiğit and N. Rujeerapaiboon \n
