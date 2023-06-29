@@ -1,32 +1,34 @@
 = Soroosh Shafieezadeh Abadeh
 
 ~~~
-{}{img_left}{sorooshafiee.jpg}{alt text}{350px}{300px}{}
+{}{img_left}{sorooshafiee.jpeg}{alt text}{}{225px}{}
 
-Postdoctoral Scholar \n
-[https://www.cmu.edu/tepper/programs/mba/index.html Tepper School of Business] \n
-[https://www.cmu.edu/ Carnegie Mellon University]
+Assistant Professor \n
+[https://www.orie.cornell.edu/orie Operations Research and Information Engineering] \n
+[https://www.cornell.edu/ Cornell University]
 
 Contact Address:\n
-4765 Forbes Ave, Pittsburgh\n 
-PA 15213 \n
+Operations Research and Information Engineering \n
+202 Rhodes Hall \n
+Ithaca, NY 14853 \n
 United States
 
-E-mail: [soroosh.shafiee@gmail.com soroosh.shafiee@gmail.com]
+E-mail: [shafiee@cornell.edu shafiee@cornell.edu]
 
 ~~~
 
 == Biography
 
-I am currently a postdoctoral researcher at Tepper School of Business at Carnegie Mellon University, working with Professor [https://www.andrew.cmu.edu/user/fkilinc Fatma Kılınç-Karzan].
-Starting from July 2023, I will be joining the Operations Research and Information Engineering (ORIE) department at Cornell University as an assistant professor. 
-Before joining CMU, he held a postdoctoral position at the Automatic Control Laboratory at ETH Zurich, working with Professor [https://control.ee.ethz.ch/people/profile.john-lygeros.html John Lygeros] and Professor [http://people.ee.ethz.ch/~floriand/ Florian Dörfler]. 
-He received his doctoral degree in Management of Technology from École Polytechnique Fédérale de Lausanne in 2020, where he worked with Professor [https://people.epfl.ch/daniel.kuhn Daniel Kuhn] and Professor [http://www.dcsc.tudelft.nl/~mohajerin/ Peyman Mohajerin Esfahani]. 
-His doctoral dissertation entitled [https://infoscience.epfl.ch/record/277923 Wasserstein Distributionally Robust Learning] was awarded an [https://actu.epfl.ch/news/soroosh-shafieezadeh-abadeh-winner-of-the-thesis-4/ EPFL Thesis Distinction] in 2020. 
-He received a Bachelor and a Master degree in Electrical Engineering (major in Automatic Control) from the University of Tehran in 2011 and 2014, respectively.
+I am an assistant professor in the [https://www.orie.cornell.edu/orie School of Operations Research and Information Engineering] at [https://www.cornell.edu/ Cornell University].
+Before that, I held positions as a postdoctoral researcher at both the [https://www.cmu.edu/tepper/ Tepper School of Business] at [https://www.cmu.edu/ Carnegie Mellon University] and the [https://control.ee.ethz.ch/ Automatic Control Laboratory] at [https://ethz.ch/en.html ETH Zurich]. 
+I hold a B.Sc. and M.Sc. degree in Electrical Engineering from the [https://ut.ac.ir/en University of Tehran] and a Ph.D. degree in Management of Technology from [https://www.epfl.ch/en/ École Polytechnique Fédérale de Lausanne].
 
-His current research interests are focused on optimization under uncertainty, the design of large-scale algorithms for solving stochastic and distributionally robust optimization problems, and the development of statistical tools for data-driven decision-making problems. 
-His research is inspired by applications in machine learning, control, economics and finance.
+== Research Interest
+
+My primary research interests revolve around optimization under uncertainty, low-complexity decision-making and optimal transport. Most of my works fall into one of the following categories:
+- Designing new models and algorithms based on (distributionally) robust optimization
+- Statistical and computational complexity analyses of data-driven optimization problems
+- Structured nonconvex optimization with application in machine learning and finance
 
 == Awards and Scholarships
 - [https://actu.epfl.ch/news/soroosh-shafieezadeh-abadeh-winner-of-the-thesis-4/ EPFL Thesis Distinction Award], 2020
