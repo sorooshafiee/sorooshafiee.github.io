@@ -1,4 +1,4 @@
-= Soroosh Shafieezadeh Abadeh
+= Soroosh Shafiee
 
 ~~~
 {}{img_left}{sorooshafiee.jpeg}{alt text}{}{225px}{}
@@ -36,27 +36,31 @@ My primary research interests revolve around optimization under uncertainty, low
 
 == Publications and Projects
 === Journal Publications
-- [https://arxiv.org/pdf/2012.14698.pdf Conic Mixed-Binary Sets: Convex Hull Characterizations and Applications] \n 
+- [https://arxiv.org/pdf/2303.03900.pdf Constrained Optimization of Rank-One Functions with Indicator Variables] \n 
+with F. Kılınç-Karzan \n 
+Mathematical Programming (in press)
+
+- [https://pubsonline.informs.org/doi/10.1287/opre.2020.0827 Conic Mixed-Binary Sets: Convex Hull Characterizations and Applications] \n 
 with F. Kılınç-Karzan, S. Küçükyavuz, D. Lee \n   
 Operations Research (in press)
 
-- [https://arxiv.org/pdf/2103.06263.pdf Semi-Discrete Optimal Transport: Hardness, Regularization and Numerical Solution] \n 
+- [https://link.springer.com/article/10.1007/s10107-022-01856-x Semi-Discrete Optimal Transport: Hardness, Regularization and Numerical Solution] \n 
 with B. Taşkesen and D. Kuhn \n 
 Mathematical Programming (in press) \n
 *[https://connect.informs.org/optimizationsociety/prizes/students-prize Winner of the 2022 INFORMS Optimization Society Student Paper Prize]* \n 
 * Runner-up for the 2022 best student paper prize of the joint European Conference on Stochastic Optimization and the Computational Management Science Conference (ESCO-CMS)*
 
-- [https://arxiv.org/pdf/2203.01161.pdf Discrete Optimal Transport with Independent Marginals is \#P-Hard] \n 
+- [https://epubs.siam.org/doi/10.1137/22M1482044 Discrete Optimal Transport with Independent Marginals is \#P-Hard] \n 
 with B. Taşkesen and D. Kuhn and K. Natarajan \n 
 SIAM Journal on Optimization (in press) 
 
-- [https://arxiv.org/pdf/1911.03539.pdf Bridging Bayesian and Minimax Mean Square Error Estimation via Wasserstein Distributionally Robust Optimization] \n
+- [https://pubsonline.informs.org/doi/10.1287/moor.2021.1176 Bridging Bayesian and Minimax Mean Square Error Estimation via Wasserstein Distributionally Robust Optimization] \n
 with V. A. Nguyen, D. Kuhn, P. Mohajerin Esfahani \n
 Mathematics of Operations Research, 2021
 
-- [https://arxiv.org/pdf/1908.08729.pdf Wasserstein Distributionally Robust Optimization: Theory and Applications in Machine Learning] \n
+- [https://pubsonline.informs.org/doi/abs/10.1287/educ.2019.0198 Wasserstein Distributionally Robust Optimization: Theory and Applications in Machine Learning] \n
 with D. Kuhn, P. Mohajerin Esfahani, and V. A. Nguyen \n
-INFORMS TutORials in Operations Research
+INFORMS TutORials in Operations Research, 2019
 
 - [http://jmlr.org/papers/volume20/17-633/17-633.pdf Regularization via Mass Transportation] \n
 with D. Kuhn, and P. Mohajerin Esfahani \n
@@ -75,6 +79,10 @@ with M. Khoramshahi, H. Jalaly Bidgoly, A. Asaei, A. J. Ijspeert, M. Nili Ahmada
 Robotics and Autonomous Systems, 2013
 
 === Conference Publications
+
+- [https://arxiv.org/pdf/2311.05573.pdf Outlier-Robust Wasserstein DRO] \n
+with S. Nietert, Z. Goldfeld \n
+Advances in Neural Information Processing Systems (NeurIPS), New Orleans, 2023
 
 - [https://papers.nips.cc/paper/9543-calculating-optimistic-likelihoods-using-geodesically-convex-optimization.pdf Calculating Optimistic Likelihoods Using (Geodesically) Convex Optimization] \n
 with V. A. Nguyen, M.-C. Yue, D. Kuhn, W. Wiesemann \n
@@ -109,10 +117,6 @@ Under Review
 with L. Aolaritei, F. Dörfler, D. Kuhn \n 
 Under Review
 
-- [https://arxiv.org/pdf/2303.03900.pdf Constrained Optimization of Rank-One Functions with Indicator Variables] \n 
-with F. Kılınç-Karzan \n 
-Under Review
-
 - Statistics of the Extremes of Random Walks: A Copula-Free Approach \n
 with C. Koçyiğit and N. Rujeerapaiboon \n
 Working Paper
@@ -126,12 +130,10 @@ Working Paper
 
 == Collaborators
 - [http://grani.hanasusanto.com/ Grani Adiwena Hanasusanto]
-- [https://control.ee.ethz.ch/people/profile.liviu-aolaritei.html Liviu Aolaritei]
 - [https://ucyweb.ucy.ac.cy/dir/el/cb-profile/ageorg07 Angelos Georghiou]
 - [https://cagilkocyigit.github.io/ Çağıl Koçyiğit]
 - [https://vietanhnguyen.net/ Viet Anh Nguyen]
 - [https://www.eng.nus.edu.sg/isem/staff/napat-rujeerapaiboon/ Napat Rujeerapaiboon]
-- [https://people.epfl.ch/bahar.taskesen Bahar Taşkesen]
 - [http://wp.doc.ic.ac.uk/wwiesema/ Wolfram Wiesemann]
 - [https://manchungyue.com/ Man-Chung Yue]
 
@@ -141,5 +143,4 @@ Working Paper
 <a href="https://scholar.google.ch/citations?user=NEfjljMAAAAJ&hl=en"><i class="ai ai-google-scholar" style="font-size:72px"></i></a>
 <a href="https://arxiv.org/search/math?searchtype=author&query=Shafieezadeh-Abadeh%2C+S"><i class="ai ai-arxiv" style="font-size:72px"></i></a>
 <a href="https://github.com/sorooshafiee"><i class="fa fa-github" style="font-size:72px"></i></a>
-<a href="https://twitter.com/sorooshafiee"><i class="fa fa-twitter" style="font-size:72px"></i></a>
 <a href="https://www.linkedin.com/in/sorooshafiee"><i class="fa fa-linkedin" style="font-size:72px"></i></a>}}
