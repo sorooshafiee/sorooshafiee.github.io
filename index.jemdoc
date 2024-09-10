@@ -35,24 +35,30 @@ My primary research interests revolve around optimization under uncertainty, low
 - Swiss National Science Foundation Early PostDoc Mobility Fellowship, 2020
 
 == Publications and Projects
+
 === Journal Publications
+
+- [https://arxiv.org/pdf/2405.00148 A Robust Optimization Approach to Network Control Using Local Information Exchange] \n 
+with G. Darivianakis, A. Georghiou, J. Lygeros \n   
+Operations Research (in press)
+
 - [https://link.springer.com/article/10.1007/s10107-023-02047-y Constrained Optimization of Rank-One Functions with Indicator Variables] \n 
 with F. Kılınç-Karzan \n 
-Mathematical Programming (in press)
+Mathematical Programming, 2024
 
 - [https://pubsonline.informs.org/doi/10.1287/opre.2020.0827 Conic Mixed-Binary Sets: Convex Hull Characterizations and Applications] \n 
 with F. Kılınç-Karzan, S. Küçükyavuz, D. Lee \n   
-Operations Research (in press)
-
-- [https://link.springer.com/article/10.1007/s10107-022-01856-x Semi-Discrete Optimal Transport: Hardness, Regularization and Numerical Solution] \n 
-with B. Taşkesen and D. Kuhn \n 
-Mathematical Programming (in press) \n
-*[https://connect.informs.org/optimizationsociety/prizes/students-prize Winner of the 2022 INFORMS Optimization Society Student Paper Prize]* \n 
-* Runner-up for the 2022 best student paper prize of the joint European Conference on Stochastic Optimization and the Computational Management Science Conference (ESCO-CMS)*
+Operations Research, 2023
 
 - [https://epubs.siam.org/doi/10.1137/22M1482044 Discrete Optimal Transport with Independent Marginals is \#P-Hard] \n 
 with B. Taşkesen and D. Kuhn and K. Natarajan \n 
-SIAM Journal on Optimization (in press) 
+SIAM Journal on Optimization, 2023 
+
+- [https://link.springer.com/article/10.1007/s10107-022-01856-x Semi-Discrete Optimal Transport: Hardness, Regularization and Numerical Solution] \n 
+with B. Taşkesen and D. Kuhn \n 
+Mathematical Programming, 2022 \n
+*[https://connect.informs.org/optimizationsociety/prizes/students-prize Winner of the 2022 INFORMS Optimization Society Student Paper Prize]* \n 
+* Runner-up for the 2022 best student paper prize of the joint European Conference on Stochastic Optimization and the Computational Management Science Conference (ESCO-CMS)*
 
 - [https://pubsonline.informs.org/doi/10.1287/moor.2021.1176 Bridging Bayesian and Minimax Mean Square Error Estimation via Wasserstein Distributionally Robust Optimization] \n
 with V. A. Nguyen, D. Kuhn, P. Mohajerin Esfahani \n
@@ -105,25 +111,18 @@ with P. Mohajerin Esfahani, D. Kuhn \n
 (*spotlight*) Advances in Neural Information Processing Systems (NeurIPS), Montreal, 2015
 
 === Ongoing Projects
-- [http://www.optimization-online.org/DB_FILE/2020/04/7738.pdf A Robust Optimization Approach to Network Control Using Local Information Exchange] \n 
-with G. Darivianakis, A. Georghiou, J. Lygeros \n   
-Major Revision in Operations Research
 
 - [https://arxiv.org/pdf/2112.09959.pdf Mean-Covariance Robust Risk Measurement] \n  
 with V. A. Nguyen, D. Kuhn, D. Filipović \n
 Major Revision in Management Science
 
+- [https://arxiv.org/pdf/2303.03900.pdf New Perspectives on Regularization and Computation in Optimal Transport-Based Distributionally Robust Optimization] \n 
+with L. Aolaritei, F. Dörfler, D. Kuhn \n 
+Major Revision in Operations Research Science
+
 - [https://arxiv.org/pdf/2206.13269.pdf The Performance of Wasserstein Distributionally Robust M-Estimators in High Dimensions] \n 
 with L. Aolaritei and F. Dörfler \n 
 Under Review
-
-- [https://arxiv.org/pdf/2303.03900.pdf New Perspectives on Regularization and Computation in Optimal Transport-Based Distributionally Robust Optimization] \n 
-with L. Aolaritei, F. Dörfler, D. Kuhn \n 
-Under Review
-
-- Statistics of the Extremes of Random Walks: A Copula-Free Approach \n
-with C. Koçyiğit and N. Rujeerapaiboon \n
-Working Paper
 
 == Professional Services
 *Reviewer for Journals:* Mathematical Programming, Operations Research, Management Science, Mathematics of Operations Research, SIAM Journal on Optimization, Journal of Machine Learning Research, SIAM Journal on Mathematics of Data Science, Machine Learning, IEEE Transactions on Pattern Analysis and Machine Intelligence, IEEE Transactions on Automatic Control, Operations Research Letters, INFORMS Journal on Optimization, European Journal of Operational Research.
