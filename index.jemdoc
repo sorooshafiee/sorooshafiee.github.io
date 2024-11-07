@@ -9,7 +9,7 @@ Assistant Professor \n
 
 Contact Address:\n
 Operations Research and Information Engineering \n
-202 Rhodes Hall \n
+224 Rhodes Hall \n
 Ithaca, NY 14853 \n
 United States
 
@@ -37,6 +37,10 @@ My primary research interests revolve around optimization under uncertainty, low
 == Publications and Projects
 
 === Journal Publications
+
+- [https://www.arxiv.org/pdf/2411.02549 Distributionally Robust Optimization] \n 
+with D. Kuhn, W.Wiesemann \n   
+Acta Numerica (in press)
 
 - [https://arxiv.org/pdf/2405.00148 A Robust Optimization Approach to Network Control Using Local Information Exchange] \n 
 with G. Darivianakis, A. Georghiou, J. Lygeros \n   
@@ -122,7 +126,7 @@ Major Revision in Operations Research
 
 - [https://arxiv.org/pdf/2206.13269.pdf The Performance of Wasserstein Distributionally Robust M-Estimators in High Dimensions] \n 
 with L. Aolaritei and F. Dörfler \n 
-Under Review
+Major Revision in Mathematical Programming
 
 == Professional Services
 *Reviewer for Journals:* Mathematical Programming, Operations Research, Management Science, Mathematics of Operations Research, SIAM Journal on Optimization, Journal of Machine Learning Research, SIAM Journal on Mathematics of Data Science, Machine Learning, IEEE Transactions on Pattern Analysis and Machine Intelligence, IEEE Transactions on Automatic Control, Operations Research Letters, INFORMS Journal on Optimization, European Journal of Operational Research.
