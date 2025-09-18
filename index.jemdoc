@@ -34,9 +34,16 @@ My primary research interests revolve around optimization under uncertainty, low
 - [https://actu.epfl.ch/news/soroosh-shafieezadeh-abadeh-winner-of-the-thesis-4/ EPFL Thesis Distinction Award], 2020
 - Swiss National Science Foundation Early PostDoc Mobility Fellowship, 2020
 
+== PhD Students
+- [https://scholar.google.com/citations?user=_NokpWUAAAAJ&hl=en Khanh-Hung Tran-Giang (Bruce Giang)], 2024-Present
+
 == Publications and Projects
 
 === Journal Publications
+
+- [https://arxiv.org/pdf/2206.13269.pdf Wasserstein Distributionally Robust Estimation in High Dimensions: Performance Analysis and Optimal Hyperparameter Tuning] \n 
+with L. Aolaritei and F. Dörfler \n 
+Mathematical Programming  (in press)
 
 - [https://www.arxiv.org/pdf/2411.02549 Distributionally Robust Optimization] \n 
 with D. Kuhn, W.Wiesemann \n   
@@ -90,6 +97,14 @@ Robotics and Autonomous Systems, 2013
 
 === Conference Publications
 
+- [https://arxiv.org/pdf/2505.18037 Efficient Conditional Gradient Methods for Solving Stochastic Convex Bilevel Optimization Problems] \n
+with K.-H. Giang-Tran, N. Ho-Nguyen \n
+Advances in Neural Information Processing Systems (NeurIPS), San Diego, 2025
+
+- [https://arxiv.org/pdf/2502.09502 Scalable First-order Method for Certifying Optimal k-Sparse GLMs] \n
+with J. Liu, A. Lodi \n
+International Conference on Machine Learning (ICML), Vancouver, 2025
+
 - [https://proceedings.mlr.press/v247/nietert24a/nietert24a.pdf Robust Distribution Learning with Local and Global Adversarial Corruptions] \n
 with S. Nietert, Z. Goldfeld \n
 Conference on Learning Theory (COLT), Edmonton, 2024
@@ -124,9 +139,13 @@ Major Revision in Management Science
 with L. Aolaritei, F. Dörfler, D. Kuhn \n 
 Major Revision in Operations Research
 
-- [https://arxiv.org/pdf/2206.13269.pdf Wasserstein Distributionally Robust Estimation in High Dimensions: Performance Analysis and Optimal Hyperparameter Tuning] \n 
-with L. Aolaritei and F. Dörfler \n 
-Major Revision in Mathematical Programming
+- [https://papers.ssrn.com/sol3/Delivery.cfm?abstractid=4977199 Estimate then Predict: Convex Formulation for Travel Demand Forecasting]
+with L. Aolaritei, F. Dörfler, D. Kuhn \n 
+Major Revision in Transportation Research Part B
+
+- [https://arxiv.org/pdf/2506.09776 A Saddle Point Algorithm for Robust Data-Driven Factor Model Problems]
+with Y. Kim, G. Zardini, S. Samaranayake \n 
+Submitted
 
 == Professional Services
 *Reviewer for Journals:* Mathematical Programming, Operations Research, Management Science, Mathematics of Operations Research, SIAM Journal on Optimization, Journal of Machine Learning Research, SIAM Journal on Mathematics of Data Science, Machine Learning, IEEE Transactions on Pattern Analysis and Machine Intelligence, IEEE Transactions on Automatic Control, Operations Research Letters, INFORMS Journal on Optimization, European Journal of Operational Research.
